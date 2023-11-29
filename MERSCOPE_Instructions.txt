@@ -1,0 +1,16 @@
+INSTRUCTIONS FOR MERSCOPE WORKFLOW
+
+~~About detected transcripts file~~
+These .csv files (detected_transcripts.csv) contain the list of all detected transcripts in the sample where each row is a detected transcript. 
+The column names and descriptions of what the column represents are:
+	A. barcode_id - internally used id of the gene. Each gene has a unique barcode_id
+	B. global_x, global_y - The global micron x and y coordinates of this transcript
+	C. x, y - The pixel coordinates of this transcript within the field of view
+	D. global_z - The index of the z slice that this transcript was detected in. Each z slice is separated by 1.5 microns
+	E. fov - the index of the field of view where this transcript was detected
+	F. gene - the gene name of this detected transcript
+	
+NOTE: global coordinates are micron! This needs to be pixels
+
+1. Preprocessing
+	- make new columns in detected_transcripts that have global pixel coordinates

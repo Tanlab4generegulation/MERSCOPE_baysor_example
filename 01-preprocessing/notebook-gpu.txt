@@ -1,0 +1,41 @@
+[W 2022-06-23 11:20:53.083 LabApp] Config option `kernel_spec_manager_class` not recognized by `LabApp`.
+[W 2022-06-23 11:20:53.089 LabApp] Config option `kernel_spec_manager_class` not recognized by `LabApp`.
+[W 2022-06-23 11:20:53.093 LabApp] Config option `kernel_spec_manager_class` not recognized by `LabApp`.
+[I 2022-06-23 11:20:53.094 ServerApp] jupyterlab | extension was successfully linked.
+[W 2022-06-23 11:20:53.096 NotebookApp] Config option `kernel_spec_manager_class` not recognized by `NotebookApp`.
+[W 2022-06-23 11:20:53.102 NotebookApp] Config option `kernel_spec_manager_class` not recognized by `NotebookApp`.
+[W 2022-06-23 11:20:53.105 NotebookApp] Config option `kernel_spec_manager_class` not recognized by `NotebookApp`.
+[I 2022-06-23 11:20:54.553 ServerApp] nbclassic | extension was successfully linked.
+[I 2022-06-23 11:20:55.981 ServerApp] [nb_conda_kernels] enabled, 9 kernels found
+[I 2022-06-23 11:20:56.126 LabApp] JupyterLab extension loaded from /home/smithd30/software/anaconda3/lib/python3.9/site-packages/jupyterlab
+[I 2022-06-23 11:20:56.126 LabApp] JupyterLab application directory is /home/smithd30/software/anaconda3/share/jupyter/lab
+[I 2022-06-23 11:20:56.132 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2022-06-23 11:20:56.169 ServerApp] nbclassic | extension was successfully loaded.
+[I 2022-06-23 11:20:56.169 ServerApp] Serving notebooks from local directory: /mnt/isilon/cscb/merscope/MERSCOPE_NB_3472_R2/01-preprocessing
+[I 2022-06-23 11:20:56.169 ServerApp] Jupyter Server 1.4.1 is running at:
+[I 2022-06-23 11:20:56.169 ServerApp] http://g-5-04:8817/lab?token=4bba6bdfae683e3547765d197dd9a88e648ffdae0e96c164
+[I 2022-06-23 11:20:56.169 ServerApp]  or http://127.0.0.1:8817/lab?token=4bba6bdfae683e3547765d197dd9a88e648ffdae0e96c164
+[I 2022-06-23 11:20:56.169 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2022-06-23 11:20:56.502 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///home/smithd30/.local/share/jupyter/runtime/jpserver-2762558-open.html
+    Or copy and paste one of these URLs:
+        http://g-5-04:8817/lab?token=4bba6bdfae683e3547765d197dd9a88e648ffdae0e96c164
+     or http://127.0.0.1:8817/lab?token=4bba6bdfae683e3547765d197dd9a88e648ffdae0e96c164
+[?1049h[22;0;0t[1;24r(B[m[4l[?7h[?1h=[39;49m[39;49m[37m[40m[H[2J[37m[40m[J(B[m[39;49m[37m[40m[39;49m[37m[40m[J[39;49m(B[m[22d[93m[44mGetting file://localhost/home/smithd30/.local/share/jupyter/runtime/jpserver-27[K[39;49m(B[m
+
+[24;1H[?1049l[23;0;0t[?1l>[W 2022-06-23 11:21:48.655 LabApp] Could not determine jupyterlab build status without nodejs
+[W 2022-06-23 11:21:52.401 ServerApp] Notebook prior_segmentation.ipynb is not trusted
+[I 2022-06-23 11:21:53.341 ServerApp] Kernel started: ed81505e-32c6-419f-bd96-8a6d5570b496
+[W 2022-06-23 11:22:05.015 ServerApp] 404 GET /api/contents/prior_segmentation-copy.ipynb?1655997725012 (172.16.6.237): No such file or directory: prior_segmentation-copy.ipynb
+[W 2022-06-23 11:22:05.016 ServerApp] No such file or directory: prior_segmentation-copy.ipynb
+[W 2022-06-23 11:22:05.016 ServerApp] 404 GET /api/contents/prior_segmentation-copy.ipynb?1655997725012 (172.16.6.237) 1.18ms referer=http://g-5-04:8817/lab
+[W 2022-06-23 11:22:05.056 ServerApp] 404 GET /api/contents/prior_segmentation-copy.ipynb?content=0&1655997725048 (172.16.6.237): No such file or directory: prior_segmentation-copy.ipynb
+[W 2022-06-23 11:22:05.056 ServerApp] No such file or directory: prior_segmentation-copy.ipynb
+[W 2022-06-23 11:22:05.056 ServerApp] 404 GET /api/contents/prior_segmentation-copy.ipynb?content=0&1655997725048 (172.16.6.237) 0.53ms referer=http://g-5-04:8817/lab
+[I 2022-06-23 11:22:05.083 ServerApp] Uploading file to /prior_segmentation-copy.ipynb
+[W 2022-06-23 11:22:05.083 ServerApp] Notebook prior_segmentation-copy.ipynb is not trusted
+[I 2022-06-23 11:24:05.159 ServerApp] Saving file at /prior_segmentation-copy.ipynb
+[W 2022-06-23 11:24:05.159 ServerApp] Notebook prior_segmentation-copy.ipynb is not trusted
+slurmstepd: error: *** JOB 48493080 ON g-5-04 CANCELLED AT 2022-06-23T11:27:10 ***

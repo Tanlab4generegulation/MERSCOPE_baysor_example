@@ -1,0 +1,5 @@
+"Cluster_Markers.csv" are the original clustering results that rely on Yasin's interpretation of cluster markers. These are the most detailed annotations
+	- the annotations (.obs) are stored in "03-clustering/adata_obs.pk"
+	- the object with original clusters is "03-clustering/baysor_seg.h5ad"
+	
+Later annotations use more coarse-grain resolution, and subcluster macrophages. 

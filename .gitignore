@@ -1,0 +1,15 @@
+*.h5ad
+*.vzg
+*.tif
+*.tiff
+data/*
+visualizer/*
+*segmentation*
+*.tsv
+*.png
+*.log
+*.html
+*.qptiff
+*.geojson
+*.pk
+*result*

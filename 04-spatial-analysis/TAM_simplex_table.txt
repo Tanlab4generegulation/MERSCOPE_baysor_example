@@ -1,0 +1,10 @@
+clusters 	0 	1
+Adrn_Cortex 	215500 	148775
+Adrenergic 	32381 	0
+T_Cell 	2513 	5982
+Fibroblast 	6918 	14014
+NK_Cell 	188 	228
+Endothelial 	1277 	3154
+Macrophage_TAM 	32381 	21601
+B_Cell 	210 	613
+unknown 	61 	42

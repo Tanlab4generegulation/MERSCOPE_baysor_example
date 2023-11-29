@@ -1,0 +1,121 @@
+
+Due to MODULEPATH changes, the following have been reloaded:
+  1) slurm/slurm/21.08.8
+
+[I 2023-11-28 09:55:28.480 ServerApp] Package jupyterlab took 0.0000s to import
+[I 2023-11-28 09:55:28.623 ServerApp] Package jupyter_lsp took 0.1410s to import
+[W 2023-11-28 09:55:28.624 ServerApp] A `_jupyter_server_extension_points` function was not found in jupyter_lsp. Instead, a `_jupyter_server_extension_paths` function was found and will be used for now. This function name will be deprecated in future releases of Jupyter Server.
+[W 2023-11-28 09:55:28.626 ServerApp] jupyter_server_fileid | error adding extension (enabled: True): The module 'jupyter_server_fileid' could not be found (No module named 'jupyter_server_fileid'). Are you sure the extension is installed?
+    Traceback (most recent call last):
+      File "/home/smithd30/.local/lib/python3.10/site-packages/jupyter_server/extension/manager.py", line 319, in add_extension
+        extpkg = ExtensionPackage(name=extension_name, enabled=enabled)
+      File "/home/smithd30/.local/lib/python3.10/site-packages/jupyter_server/extension/manager.py", line 183, in __init__
+        self._load_metadata()
+      File "/home/smithd30/.local/lib/python3.10/site-packages/jupyter_server/extension/manager.py", line 198, in _load_metadata
+        raise ExtensionModuleNotFound(msg) from None
+    jupyter_server.extension.utils.ExtensionModuleNotFound: The module 'jupyter_server_fileid' could not be found (No module named 'jupyter_server_fileid'). Are you sure the extension is installed?
+[I 2023-11-28 09:55:28.688 ServerApp] Package jupyter_server_terminals took 0.0605s to import
+[W 2023-11-28 09:55:28.690 ServerApp] jupyter_server_ydoc | error adding extension (enabled: True): The module 'jupyter_server_ydoc' could not be found (No module named 'jupyter_server_ydoc'). Are you sure the extension is installed?
+    Traceback (most recent call last):
+      File "/home/smithd30/.local/lib/python3.10/site-packages/jupyter_server/extension/manager.py", line 319, in add_extension
+        extpkg = ExtensionPackage(name=extension_name, enabled=enabled)
+      File "/home/smithd30/.local/lib/python3.10/site-packages/jupyter_server/extension/manager.py", line 183, in __init__
+        self._load_metadata()
+      File "/home/smithd30/.local/lib/python3.10/site-packages/jupyter_server/extension/manager.py", line 198, in _load_metadata
+        raise ExtensionModuleNotFound(msg) from None
+    jupyter_server.extension.utils.ExtensionModuleNotFound: The module 'jupyter_server_ydoc' could not be found (No module named 'jupyter_server_ydoc'). Are you sure the extension is installed?
+[I 2023-11-28 09:55:28.710 ServerApp] Package nbclassic took 0.0205s to import
+[W 2023-11-28 09:55:28.723 ServerApp] A `_jupyter_server_extension_points` function was not found in nbclassic. Instead, a `_jupyter_server_extension_paths` function was found and will be used for now. This function name will be deprecated in future releases of Jupyter Server.
+[I 2023-11-28 09:55:28.724 ServerApp] Package notebook_shim took 0.0000s to import
+[W 2023-11-28 09:55:28.724 ServerApp] A `_jupyter_server_extension_points` function was not found in notebook_shim. Instead, a `_jupyter_server_extension_paths` function was found and will be used for now. This function name will be deprecated in future releases of Jupyter Server.
+[I 2023-11-28 09:55:28.726 ServerApp] jupyter_lsp | extension was successfully linked.
+[I 2023-11-28 09:55:28.735 ServerApp] jupyter_server_terminals | extension was successfully linked.
+[I 2023-11-28 09:55:28.745 ServerApp] jupyterlab | extension was successfully linked.
+[I 2023-11-28 09:55:28.756 ServerApp] nbclassic | extension was successfully linked.
+[W 2023-11-28 09:55:30.481 ServerApp] jupyter_server_ydoc | error adding extension (enabled: True): The module 'jupyter_server_ydoc' could not be found (No module named 'jupyter_server_ydoc'). Are you sure the extension is installed?
+    Traceback (most recent call last):
+      File "/home/smithd30/.local/lib/python3.10/site-packages/jupyter_server/extension/manager.py", line 319, in add_extension
+        extpkg = ExtensionPackage(name=extension_name, enabled=enabled)
+      File "/home/smithd30/.local/lib/python3.10/site-packages/jupyter_server/extension/manager.py", line 183, in __init__
+        self._load_metadata()
+      File "/home/smithd30/.local/lib/python3.10/site-packages/jupyter_server/extension/manager.py", line 198, in _load_metadata
+        raise ExtensionModuleNotFound(msg) from None
+    jupyter_server.extension.utils.ExtensionModuleNotFound: The module 'jupyter_server_ydoc' could not be found (No module named 'jupyter_server_ydoc'). Are you sure the extension is installed?
+[I 2023-11-28 09:55:30.482 ServerApp] notebook_shim | extension was successfully linked.
+[I 2023-11-28 09:55:31.046 ServerApp] notebook_shim | extension was successfully loaded.
+[I 2023-11-28 09:55:31.053 ServerApp] jupyter_lsp | extension was successfully loaded.
+[I 2023-11-28 09:55:31.055 ServerApp] jupyter_server_terminals | extension was successfully loaded.
+[I 2023-11-28 09:55:31.056 LabApp] JupyterLab extension loaded from /home/smithd30/.local/lib/python3.10/site-packages/jupyterlab
+[I 2023-11-28 09:55:31.056 LabApp] JupyterLab application directory is /home/smithd30/.local/share/jupyter/lab
+[I 2023-11-28 09:55:31.058 LabApp] Extension Manager is 'pypi'.
+[I 2023-11-28 09:55:31.063 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2023-11-28 09:55:31.112 ServerApp] nbclassic | extension was successfully loaded.
+[I 2023-11-28 09:55:31.113 ServerApp] Serving notebooks from local directory: /mnt/isilon/cscb/Projects/Merscope/MERSCOPE_NB_3472_R2/03-clustering
+[I 2023-11-28 09:55:31.113 ServerApp] Jupyter Server 2.6.0 is running at:
+[I 2023-11-28 09:55:31.113 ServerApp] http://m-09-03:8888/lab?token=2ec9ca72096bf41ee152ec95b1943f645657215b6304bf30
+[I 2023-11-28 09:55:31.113 ServerApp]     http://127.0.0.1:8888/lab?token=2ec9ca72096bf41ee152ec95b1943f645657215b6304bf30
+[I 2023-11-28 09:55:31.113 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2023-11-28 09:55:31.282 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///home/smithd30/.local/share/jupyter/runtime/jpserver-1276020-open.html
+    Or copy and paste one of these URLs:
+        http://m-09-03:8888/lab?token=2ec9ca72096bf41ee152ec95b1943f645657215b6304bf30
+        http://127.0.0.1:8888/lab?token=2ec9ca72096bf41ee152ec95b1943f645657215b6304bf30
+[?1049h[22;0;0t[1;24r(B[m[4l[?7h[?1h=[39;49m[39;49m[37m[40m[H[2J[37m[40m[J(B[m[39;49m[37m[40m[39;49m[37m[40m[J[39;49m(B[m[22d[93m[44mGetting file://localhost/home/smithd30/.local/share/jupyter/runtime/jpserver-12[K[39;49m(B[m[24d[24;1H[?1049l[23;0;0t[?1l>[I 2023-11-28 09:55:35.033 ServerApp] Skipped non-installed server(s): bash-language-server, dockerfile-language-server-nodejs, javascript-typescript-langserver, jedi-language-server, julia-language-server, pyright, python-language-server, python-lsp-server, r-languageserver, sql-language-server, texlab, typescript-language-server, unified-language-server, vscode-css-languageserver-bin, vscode-html-languageserver-bin, vscode-json-languageserver-bin, yaml-language-server
+[W 2023-11-28 09:55:43.787 ServerApp] 404 GET /api/contents/neighbor_analysis.ipynb?content=0&1701183343778 (172.16.9.141): No such file or directory: neighbor_analysis.ipynb
+[W 2023-11-28 09:55:43.788 ServerApp] wrote error: 'No such file or directory: neighbor_analysis.ipynb'
+    Traceback (most recent call last):
+      File "/home/smithd30/.local/lib/python3.10/site-packages/tornado/web.py", line 1786, in _execute
+        result = await result
+      File "/home/smithd30/.local/lib/python3.10/site-packages/jupyter_server/services/contents/handlers.py", line 121, in get
+        model = await ensure_async(
+      File "/home/smithd30/.local/lib/python3.10/site-packages/jupyter_core/utils/__init__.py", line 182, in ensure_async
+        result = await obj
+      File "/home/smithd30/.local/lib/python3.10/site-packages/jupyter_server/services/contents/filemanager.py", line 877, in get
+        raise web.HTTPError(404, "No such file or directory: %s" % path)
+    tornado.web.HTTPError: HTTP 404: Not Found (No such file or directory: neighbor_analysis.ipynb)
+[W 2023-11-28 09:55:43.813 ServerApp] 404 GET /api/contents/neighbor_analysis.ipynb?content=0&1701183343778 (9f011d8121714ec2bfab42612b1a2afd@172.16.9.141) 27.31ms referer=http://m-09-03:8888/lab
+[I 2023-11-28 09:55:43.962 LabApp] Build is up to date
+[W 2023-11-28 09:55:51.076 ServerApp] Notebook Visualization.ipynb is not trusted
+[I 2023-11-28 09:55:54.108 ServerApp] Kernel started: 548a27ff-92e5-4107-b1ed-77b12833f516
+[I 2023-11-28 09:55:58.974 ServerApp] Connecting to kernel 548a27ff-92e5-4107-b1ed-77b12833f516.
+[I 2023-11-28 09:55:59.008 ServerApp] Connecting to kernel 548a27ff-92e5-4107-b1ed-77b12833f516.
+[I 2023-11-28 09:55:59.027 ServerApp] Connecting to kernel 548a27ff-92e5-4107-b1ed-77b12833f516.
+[W 2023-11-28 09:55:59.105 ServerApp] Got events for closed stream <zmq.eventloop.zmqstream.ZMQStream object at 0x7ffff0294460>
+[I 2023-11-28 09:56:35.593 ServerApp] Kernel started: 7f2ac8e1-dd14-485e-ad61-844334c9446d
+0.01s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+[I 2023-11-28 09:56:39.636 ServerApp] Connecting to kernel 7f2ac8e1-dd14-485e-ad61-844334c9446d.
+[I 2023-11-28 09:56:39.655 ServerApp] Connecting to kernel 7f2ac8e1-dd14-485e-ad61-844334c9446d.
+[I 2023-11-28 09:56:39.663 ServerApp] Connecting to kernel 7f2ac8e1-dd14-485e-ad61-844334c9446d.
+[W 2023-11-28 09:56:39.764 ServerApp] Got events for closed stream <zmq.eventloop.zmqstream.ZMQStream object at 0x7ffff0297d00>
+[I 2023-11-28 09:57:51.548 ServerApp] Saving file at /Visualization.ipynb
+[W 2023-11-28 09:57:51.550 ServerApp] Notebook Visualization.ipynb is not trusted
+[I 2023-11-28 09:58:35.154 ServerApp] Saving file at /testing_expression_correlation.ipynb
+[W 2023-11-28 09:59:31.575 ServerApp] Notebook Tiled_input/clustering_EDA.ipynb is not trusted
+[I 2023-11-28 09:59:32.297 ServerApp] Kernel started: bdd9f025-ce26-465e-8b1f-a37bc196518c
+0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+[I 2023-11-28 09:59:33.487 ServerApp] Connecting to kernel bdd9f025-ce26-465e-8b1f-a37bc196518c.
+[I 2023-11-28 09:59:48.704 ServerApp] Starting buffering for bdd9f025-ce26-465e-8b1f-a37bc196518c:0bfd0301-bd8e-494c-9955-0985cbdbdd47
+[I 2023-11-28 10:01:51.823 ServerApp] Saving file at /Visualization.ipynb
+[W 2023-11-28 10:01:51.826 ServerApp] Notebook Visualization.ipynb is not trusted
+[W 2023-11-28 10:03:28.832 ServerApp] Notebook clustering_EDA.ipynb is not trusted
+[W 2023-11-28 10:10:08.525 ServerApp] Notebook clustering_EDA.ipynb is not trusted
+[I 2023-11-28 10:10:18.789 ServerApp] Kernel started: 6e598a1f-8e47-4e12-bd9e-911e88bcacc6
+0.00s - Debugger warning: It seems that frozen modules are being used, which may
+0.00s - make the debugger miss breakpoints. Please pass -Xfrozen_modules=off
+0.00s - to python to disable frozen modules.
+0.00s - Note: Debugging will proceed. Set PYDEVD_DISABLE_FILE_VALIDATION=1 to disable this validation.
+[I 2023-11-28 10:10:20.286 ServerApp] Connecting to kernel 6e598a1f-8e47-4e12-bd9e-911e88bcacc6.
+[I 2023-11-28 10:12:09.370 ServerApp] Saving file at /clustering_EDA.ipynb
+[W 2023-11-28 10:12:09.372 ServerApp] Notebook clustering_EDA.ipynb is not trusted
+[I 2023-11-28 10:16:49.043 ServerApp] Starting buffering for 548a27ff-92e5-4107-b1ed-77b12833f516:989a7713-c52f-4f72-b06a-bb58a95c26ac
+[I 2023-11-28 10:16:49.044 ServerApp] Starting buffering for 6e598a1f-8e47-4e12-bd9e-911e88bcacc6:e93f3874-ac46-4222-bec5-4c902e34f8e6
+[I 2023-11-28 10:16:49.045 ServerApp] Starting buffering for 7f2ac8e1-dd14-485e-ad61-844334c9446d:53d32898-667a-484f-9003-2627bef73055
+slurmstepd: error: *** JOB 8348317 ON m-09-03 CANCELLED AT 2023-11-28T10:17:08 ***

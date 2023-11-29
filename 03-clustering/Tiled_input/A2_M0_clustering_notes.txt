@@ -1,0 +1,73 @@
+Macrophage
+######################
+
+-'ACSL1', 1,2,8,13
+X'AKAP13',
+X'ANKH',
+X'C1QC',
+X'CD14',
+0'CD163', 2*
+0'CSF1R', 8,13
+X'ELL2',
+X'HIF1A',
+X'IL6R',
+0'MRC1', 9*
+X'NAMPT',
+X'NLRP3',
+X'PLXDC2',
+-'PTPRC', 1,2,4,8,11,13
+-'RAB31', 1,2,4,8,13
+X'SAT1', 
+X'SIPA1L1',
+X'SLC16A10',
+0'SRGN', 8,13
+X'VIM',
+X'ZNF331'
+ 
+For M0, I'm thinking: 1,2,8,11,13
+
+######################
+ Adrenergic
+######################
+X'ANKFN1',
+X'AOPEP',
+X'CACNB2',
+-'CREB5', 0,1
+X'DGKH',
+-'DSCAM', 0,4,5,6,7,8,10,11
+X'FMN1',
+-'FNDC3A', 0,3,4,5,6,7,8,10,11
+X'KCNH5',
+-'KCNMA1', 0,3,4,5,6,7,8,10,11
+X'KCNQ3',
+X'KLHL29',
+X'LDLRAD4',
+X'LONRF2',
+X'LUZP2',
+X'MAP7',
+X'NALCN',
+X'PAM',
+X'PDE3A',
+X'PDE4B',
+-'PPP2R2B', 0,4,5,6,7,8,9,10,11
+X'PPP2R2C',
+X'PRKN',
+X'PRUNE2',
+X'PTPRM',
+-'RNF144A',
+X'SLC35F3',
+X'SNRPN',
+X'ST6GALNAC3',
+X'SV2C',
+-'UNC5D', 0,1
+
+A lot of these look suspiciously similar...
+Really hard to tell, but might say: 0,4,5
+
+
+####
+For whatever reason, when I included noise in the re-stitched tiled segment transcripts the cell number's changed. 
+Did I rerun the segmentation? Either way the UMAP looks the same.
+
+New subclusters:
+Mac0 = 1,3,4,6,10,12,13

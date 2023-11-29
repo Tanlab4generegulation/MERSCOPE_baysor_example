@@ -1,0 +1,86 @@
+[W 2022-07-25 23:55:52.111 LabApp] Config option `kernel_spec_manager_class` not recognized by `LabApp`.
+[W 2022-07-25 23:55:52.126 LabApp] Config option `kernel_spec_manager_class` not recognized by `LabApp`.
+[W 2022-07-25 23:55:52.143 LabApp] Config option `kernel_spec_manager_class` not recognized by `LabApp`.
+[I 2022-07-25 23:55:52.145 ServerApp] jupyterlab | extension was successfully linked.
+[W 2022-07-25 23:55:52.151 NotebookApp] Config option `kernel_spec_manager_class` not recognized by `NotebookApp`.
+[W 2022-07-25 23:55:52.179 NotebookApp] Config option `kernel_spec_manager_class` not recognized by `NotebookApp`.
+[W 2022-07-25 23:55:52.191 NotebookApp] Config option `kernel_spec_manager_class` not recognized by `NotebookApp`.
+[I 2022-07-25 23:56:01.373 ServerApp] nbclassic | extension was successfully linked.
+[I 2022-07-25 23:56:01.374 ServerApp] panel.io.jupyter_server_extension | extension was successfully linked.
+[I 2022-07-25 23:56:10.043 ServerApp] [nb_conda_kernels] enabled, 8 kernels found
+[I 2022-07-25 23:56:10.818 ServerApp] nbclassic | extension was successfully loaded.
+[I 2022-07-25 23:56:10.821 LabApp] JupyterLab extension loaded from /mnt/isilon/cscb/software/anaconda3/lib/python3.9/site-packages/jupyterlab
+[I 2022-07-25 23:56:10.821 LabApp] JupyterLab application directory is /mnt/isilon/cscb/software/anaconda3/share/jupyter/lab
+[I 2022-07-25 23:56:10.832 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2022-07-25 23:56:10.836 ServerApp] panel.io.jupyter_server_extension | extension was successfully loaded.
+[I 2022-07-25 23:56:10.837 ServerApp] Serving notebooks from local directory: /mnt/isilon/cscb/merscope/MERSCOPE_NB_3472_R2/01-preprocessing
+[I 2022-07-25 23:56:10.837 ServerApp] Jupyter Server 1.13.5 is running at:
+[I 2022-07-25 23:56:10.837 ServerApp] http://c-0-05:8817/lab?token=b87a5cc6fc916e1d001a5f934e8a3d5f4df10ffeb8a8e194
+[I 2022-07-25 23:56:10.837 ServerApp]  or http://127.0.0.1:8817/lab?token=b87a5cc6fc916e1d001a5f934e8a3d5f4df10ffeb8a8e194
+[I 2022-07-25 23:56:10.837 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 2022-07-25 23:56:11.028 ServerApp] 
+    
+    To access the server, open this file in a browser:
+        file:///home/smithd30/.local/share/jupyter/runtime/jpserver-2434256-open.html
+    Or copy and paste one of these URLs:
+        http://c-0-05:8817/lab?token=b87a5cc6fc916e1d001a5f934e8a3d5f4df10ffeb8a8e194
+     or http://127.0.0.1:8817/lab?token=b87a5cc6fc916e1d001a5f934e8a3d5f4df10ffeb8a8e194
+[?1049h[22;0;0t[1;24r(B[m[4l[?7h[?1h=[39;49m[39;49m[37m[40m[H[2J[37m[40m[J(B[m[39;49m[37m[40m[39;49m[37m[40m[J[39;49m(B[m[22d[93m[44mGetting file://localhost/home/smithd30/.local/share/jupyter/runtime/jpserver-24[K[39;49m(B[m
+
+[24;1H[?1049l[23;0;0t[?1l>[W 2022-07-25 23:58:45.192 LabApp] Could not determine jupyterlab build status without nodejs
+[W 2022-07-25 23:58:49.342 ServerApp] 404 GET /api/contents/CellSeg/CellSeg_clustering-annotation_MCD1.ipynb?content=0&1658807929270 (172.16.7.196): No such file or directory: CellSeg/CellSeg_clustering-annotation_MCD1.ipynb
+[W 2022-07-25 23:58:49.343 ServerApp] No such file or directory: CellSeg/CellSeg_clustering-annotation_MCD1.ipynb
+[W 2022-07-25 23:58:49.344 ServerApp] 404 GET /api/contents/CellSeg/CellSeg_clustering-annotation_MCD1.ipynb?content=0&1658807929270 (172.16.7.196) 24.81ms referer=http://c-0-05:8817/lab
+[W 2022-07-25 23:58:49.346 ServerApp] 404 GET /api/contents/CellSeg/CellSeg_clustering-annotation_HVCD1.ipynb?content=0&1658807929272 (172.16.7.196): No such file or directory: CellSeg/CellSeg_clustering-annotation_HVCD1.ipynb
+[W 2022-07-25 23:58:49.346 ServerApp] No such file or directory: CellSeg/CellSeg_clustering-annotation_HVCD1.ipynb
+[W 2022-07-25 23:58:49.347 ServerApp] 404 GET /api/contents/CellSeg/CellSeg_clustering-annotation_HVCD1.ipynb?content=0&1658807929272 (172.16.7.196) 2.41ms referer=http://c-0-05:8817/lab
+[W 2022-07-25 23:58:49.349 ServerApp] 404 GET /api/contents/CellSeg/Bulk_processing.ipynb?content=0&1658807929272 (172.16.7.196): No such file or directory: CellSeg/Bulk_processing.ipynb
+[W 2022-07-25 23:58:49.350 ServerApp] No such file or directory: CellSeg/Bulk_processing.ipynb
+[W 2022-07-25 23:58:49.350 ServerApp] 404 GET /api/contents/CellSeg/Bulk_processing.ipynb?content=0&1658807929272 (172.16.7.196) 2.49ms referer=http://c-0-05:8817/lab
+[W 2022-07-25 23:58:50.022 ServerApp] 404 GET /api/contents/CellSeg?1658807930019 (172.16.7.196): No such file or directory: CellSeg
+[W 2022-07-25 23:58:50.022 ServerApp] No such file or directory: CellSeg
+[W 2022-07-25 23:58:50.023 ServerApp] 404 GET /api/contents/CellSeg?1658807930019 (172.16.7.196) 2.36ms referer=http://c-0-05:8817/lab
+[I 2022-07-25 23:59:28.845 ServerApp] Creating new notebook in 
+[I 2022-07-25 23:59:29.467 ServerApp] Kernel started: 8a30eb38-d714-4bf3-8699-a1cf4065434e
+CONDA_PREFIX=/mnt/isilon/cscb/software/anaconda3/envs/scanpy-basic
+[W 2022-07-25 23:59:45.042 ServerApp] Notebook Data_transform.ipynb is not trusted
+[I 2022-07-25 23:59:45.384 ServerApp] Kernel started: b5dee73a-fc03-4e24-b819-83b6f4db1ce4
+CONDA_PREFIX=/mnt/isilon/cscb/software/anaconda3/envs/scanpy-basic
+[I 2022-07-26 00:01:29.239 ServerApp] Saving file at /Untitled.ipynb
+[I 2022-07-26 00:03:29.317 ServerApp] Saving file at /Untitled.ipynb
+[I 2022-07-26 00:05:29.429 ServerApp] Saving file at /Untitled.ipynb
+[I 2022-07-26 00:07:29.508 ServerApp] Saving file at /Untitled.ipynb
+[I 2022-07-26 00:09:29.582 ServerApp] Saving file at /Untitled.ipynb
+[I 2022-07-26 00:11:29.656 ServerApp] Saving file at /Untitled.ipynb
+[I 2022-07-26 00:13:29.738 ServerApp] Saving file at /Untitled.ipynb
+[I 2022-07-26 00:15:29.823 ServerApp] Saving file at /Untitled.ipynb
+[I 2022-07-26 00:17:29.914 ServerApp] Saving file at /Untitled.ipynb
+[I 2022-07-26 00:19:30.005 ServerApp] Saving file at /Untitled.ipynb
+[I 2022-07-26 00:21:30.084 ServerApp] Saving file at /Untitled.ipynb
+[I 2022-07-26 00:23:30.165 ServerApp] Saving file at /Untitled.ipynb
+[I 2022-07-26 00:25:30.266 ServerApp] Saving file at /Untitled.ipynb
+[I 2022-07-26 00:29:30.368 ServerApp] Saving file at /Untitled.ipynb
+[I 2022-07-26 00:31:31.055 ServerApp] Saving file at /Untitled.ipynb
+[I 2022-07-26 00:33:31.136 ServerApp] Saving file at /Untitled.ipynb
+[I 2022-07-26 00:35:31.214 ServerApp] Saving file at /Untitled.ipynb
+[I 2022-07-26 00:37:31.303 ServerApp] Saving file at /Untitled.ipynb
+[I 2022-07-26 00:39:31.420 ServerApp] Saving file at /Untitled.ipynb
+[I 2022-07-26 00:41:31.502 ServerApp] Saving file at /Untitled.ipynb
+[I 2022-07-26 00:47:27.112 ServerApp] Kernel interrupted: 8a30eb38-d714-4bf3-8699-a1cf4065434e
+[I 2022-07-26 00:48:40.598 ServerApp] Kernel interrupted: 8a30eb38-d714-4bf3-8699-a1cf4065434e
+[I 2022-07-26 00:49:31.811 ServerApp] Saving file at /Untitled.ipynb
+[I 2022-07-26 00:51:31.906 ServerApp] Saving file at /Untitled.ipynb
+[I 2022-07-26 00:53:31.997 ServerApp] Saving file at /Image_tiling.ipynb
+[I 2022-07-26 00:55:32.102 ServerApp] Saving file at /Image_tiling.ipynb
+[I 2022-07-26 00:57:32.190 ServerApp] Saving file at /Image_tiling.ipynb
+[I 2022-07-26 00:59:32.286 ServerApp] Saving file at /Image_tiling.ipynb
+[I 2022-07-26 01:01:32.377 ServerApp] Saving file at /Image_tiling.ipynb
+[I 2022-07-26 01:03:32.457 ServerApp] Saving file at /Image_tiling.ipynb
+[I 2022-07-26 01:07:32.537 ServerApp] Saving file at /Image_tiling.ipynb
+[I 2022-07-26 01:09:32.639 ServerApp] Saving file at /Image_tiling.ipynb
+[I 2022-07-26 01:11:32.711 ServerApp] Saving file at /Image_tiling.ipynb
+[I 2022-07-26 01:13:32.784 ServerApp] Saving file at /Image_tiling.ipynb
+[I 2022-07-26 01:15:32.865 ServerApp] Saving file at /Image_tiling.ipynb
+[I 2022-07-26 01:17:32.958 ServerApp] Saving file at /Image_tiling.ipynb
+[I 2022-07-26 01:19:33.041 ServerApp] Saving file at /Image_tiling.ipynb
+slurmstepd: error: *** JOB 50708285 ON c-0-05 CANCELLED AT 2022-07-26T01:24:26 ***

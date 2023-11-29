@@ -1,0 +1,1873 @@
+{
+    "Active layers": [
+        "Transcripts",
+        "Images"
+    ],
+    "Brightness": "0, 1",
+    "Coloring mode": "Active category",
+    "Dataset": "202206071417_20220607-NB-3472-R2-test01_VMSC01501_region_0",
+    "Date_Time": "Thu Aug 18 12:41:27 2022",
+    "Opacity": [
+        "255",
+        "255"
+    ],
+    "Scale": 218.66761016845723,
+    "Selected genes": [
+        {
+            "color": "#c3311f",
+            "name": "CD4"
+        },
+        {
+            "color": "#3882d0",
+            "name": "SNAI2"
+        },
+        {
+            "color": "#e4bf40",
+            "name": "SLC2A3"
+        },
+        {
+            "color": "#6f36a8",
+            "name": "CD22"
+        },
+        {
+            "color": "#81b7c3",
+            "name": "TBX21"
+        },
+        {
+            "color": "#c358cf",
+            "name": "TGFBR3"
+        },
+        {
+            "color": "#40ad54",
+            "name": "PCSK1N"
+        },
+        {
+            "color": "#d1587c",
+            "name": "CD79A"
+        },
+        {
+            "color": "#2626f0",
+            "name": "NAMPT"
+        },
+        {
+            "color": "#9e633a",
+            "name": "SERPINE1"
+        },
+        {
+            "color": "#93e517",
+            "name": "VIM"
+        },
+        {
+            "color": "#c3311f",
+            "name": "ACTA2"
+        },
+        {
+            "color": "#3882d0",
+            "name": "COL1A1"
+        },
+        {
+            "color": "#e4bf40",
+            "name": "PHOX2B"
+        },
+        {
+            "color": "#6f36a8",
+            "name": "CD69"
+        },
+        {
+            "color": "#81b7c3",
+            "name": "ENO2"
+        },
+        {
+            "color": "#c358cf",
+            "name": "ABCG2"
+        },
+        {
+            "color": "#40ad54",
+            "name": "ELL2"
+        },
+        {
+            "color": "#d1587c",
+            "name": "ADGRB3"
+        },
+        {
+            "color": "#2626f0",
+            "name": "EGR1"
+        },
+        {
+            "color": "#9e633a",
+            "name": "CXCR4"
+        },
+        {
+            "color": "#93e517",
+            "name": "INHBA"
+        },
+        {
+            "color": "#c3311f",
+            "name": "SRGN"
+        },
+        {
+            "color": "#3882d0",
+            "name": "SAMD4A"
+        },
+        {
+            "color": "#e4bf40",
+            "name": "NALCN"
+        },
+        {
+            "color": "#6f36a8",
+            "name": "ESYT2"
+        },
+        {
+            "color": "#81b7c3",
+            "name": "ARFGEF3"
+        },
+        {
+            "color": "#c358cf",
+            "name": "EXOC4"
+        },
+        {
+            "color": "#40ad54",
+            "name": "LYVE1"
+        },
+        {
+            "color": "#d1587c",
+            "name": "CTIF"
+        },
+        {
+            "color": "#2626f0",
+            "name": "EMP1"
+        },
+        {
+            "color": "#9e633a",
+            "name": "PRPH"
+        },
+        {
+            "color": "#93e517",
+            "name": "BRIP1"
+        },
+        {
+            "color": "#c3311f",
+            "name": "TUBB2B"
+        },
+        {
+            "color": "#3882d0",
+            "name": "THBS1"
+        },
+        {
+            "color": "#e4bf40",
+            "name": "CYP2C9"
+        },
+        {
+            "color": "#6f36a8",
+            "name": "SYT1"
+        },
+        {
+            "color": "#81b7c3",
+            "name": "ENOX1"
+        },
+        {
+            "color": "#c358cf",
+            "name": "DGKH"
+        },
+        {
+            "color": "#40ad54",
+            "name": "PDGFRB"
+        },
+        {
+            "color": "#d1587c",
+            "name": "CRISPLD2"
+        },
+        {
+            "color": "#2626f0",
+            "name": "CD81"
+        },
+        {
+            "color": "#9e633a",
+            "name": "EPAS1"
+        },
+        {
+            "color": "#93e517",
+            "name": "IL7"
+        },
+        {
+            "color": "#c3311f",
+            "name": "MCAM"
+        },
+        {
+            "color": "#3882d0",
+            "name": "STAT3"
+        },
+        {
+            "color": "#e4bf40",
+            "name": "FOSL2"
+        },
+        {
+            "color": "#6f36a8",
+            "name": "ICAM1"
+        },
+        {
+            "color": "#81b7c3",
+            "name": "SEMA3A"
+        },
+        {
+            "color": "#c358cf",
+            "name": "CDK6"
+        },
+        {
+            "color": "#40ad54",
+            "name": "RUNX1T1"
+        },
+        {
+            "color": "#d1587c",
+            "name": "TCF12"
+        },
+        {
+            "color": "#2626f0",
+            "name": "ITGAX"
+        },
+        {
+            "color": "#9e633a",
+            "name": "EGFR"
+        },
+        {
+            "color": "#93e517",
+            "name": "TACC1"
+        },
+        {
+            "color": "#c3311f",
+            "name": "CRH"
+        },
+        {
+            "color": "#3882d0",
+            "name": "CD226"
+        },
+        {
+            "color": "#e4bf40",
+            "name": "TMEM163"
+        },
+        {
+            "color": "#6f36a8",
+            "name": "MSI2"
+        },
+        {
+            "color": "#81b7c3",
+            "name": "SEMA3D"
+        },
+        {
+            "color": "#c358cf",
+            "name": "THY1"
+        },
+        {
+            "color": "#40ad54",
+            "name": "ANKH"
+        },
+        {
+            "color": "#d1587c",
+            "name": "NCAM2"
+        },
+        {
+            "color": "#2626f0",
+            "name": "CSF1R"
+        },
+        {
+            "color": "#9e633a",
+            "name": "MMP16"
+        },
+        {
+            "color": "#93e517",
+            "name": "ZFAND3"
+        },
+        {
+            "color": "#c3311f",
+            "name": "UNC5D"
+        },
+        {
+            "color": "#3882d0",
+            "name": "SST"
+        },
+        {
+            "color": "#e4bf40",
+            "name": "KIT"
+        },
+        {
+            "color": "#6f36a8",
+            "name": "GPC2"
+        },
+        {
+            "color": "#81b7c3",
+            "name": "ARHGAP15"
+        },
+        {
+            "color": "#c358cf",
+            "name": "PRSS12"
+        },
+        {
+            "color": "#40ad54",
+            "name": "HPGD"
+        },
+        {
+            "color": "#d1587c",
+            "name": "MAP1B"
+        },
+        {
+            "color": "#2626f0",
+            "name": "MAP1A"
+        },
+        {
+            "color": "#9e633a",
+            "name": "CD3D"
+        },
+        {
+            "color": "#93e517",
+            "name": "TUBA1A"
+        },
+        {
+            "color": "#c3311f",
+            "name": "ZNF804A"
+        },
+        {
+            "color": "#3882d0",
+            "name": "IL7R"
+        },
+        {
+            "color": "#e4bf40",
+            "name": "FOS"
+        },
+        {
+            "color": "#6f36a8",
+            "name": "RFX2"
+        },
+        {
+            "color": "#81b7c3",
+            "name": "RRM2"
+        },
+        {
+            "color": "#c358cf",
+            "name": "CTNND2"
+        },
+        {
+            "color": "#40ad54",
+            "name": "GAP43"
+        },
+        {
+            "color": "#d1587c",
+            "name": "FGF13"
+        },
+        {
+            "color": "#2626f0",
+            "name": "ALCAM"
+        },
+        {
+            "color": "#9e633a",
+            "name": "SORBS1"
+        },
+        {
+            "color": "#93e517",
+            "name": "NEGR1"
+        },
+        {
+            "color": "#c3311f",
+            "name": "DPP10"
+        },
+        {
+            "color": "#3882d0",
+            "name": "TERT"
+        },
+        {
+            "color": "#e4bf40",
+            "name": "FCHSD2"
+        },
+        {
+            "color": "#6f36a8",
+            "name": "B4GAT1"
+        },
+        {
+            "color": "#81b7c3",
+            "name": "CD248"
+        },
+        {
+            "color": "#c358cf",
+            "name": "MMP14"
+        },
+        {
+            "color": "#40ad54",
+            "name": "HS3ST5"
+        },
+        {
+            "color": "#d1587c",
+            "name": "OSBPL3"
+        },
+        {
+            "color": "#2626f0",
+            "name": "RGS5"
+        },
+        {
+            "color": "#9e633a",
+            "name": "ZHX2"
+        },
+        {
+            "color": "#93e517",
+            "name": "SEMA6D"
+        },
+        {
+            "color": "#c3311f",
+            "name": "NCAM1"
+        },
+        {
+            "color": "#3882d0",
+            "name": "NTRK3"
+        },
+        {
+            "color": "#e4bf40",
+            "name": "CD276"
+        },
+        {
+            "color": "#6f36a8",
+            "name": "A2M"
+        },
+        {
+            "color": "#81b7c3",
+            "name": "ANKFN1"
+        },
+        {
+            "color": "#c358cf",
+            "name": "RNF144A"
+        },
+        {
+            "color": "#40ad54",
+            "name": "FKBP10"
+        },
+        {
+            "color": "#d1587c",
+            "name": "PRKCB"
+        },
+        {
+            "color": "#2626f0",
+            "name": "KCNH5"
+        },
+        {
+            "color": "#9e633a",
+            "name": "CYP11B2"
+        },
+        {
+            "color": "#93e517",
+            "name": "NDRG1"
+        },
+        {
+            "color": "#c3311f",
+            "name": "CYP2B6"
+        },
+        {
+            "color": "#3882d0",
+            "name": "CALCB"
+        },
+        {
+            "color": "#e4bf40",
+            "name": "CD19"
+        },
+        {
+            "color": "#6f36a8",
+            "name": "HMGCS1"
+        },
+        {
+            "color": "#81b7c3",
+            "name": "PSD3"
+        },
+        {
+            "color": "#c358cf",
+            "name": "TUBB"
+        },
+        {
+            "color": "#40ad54",
+            "name": "ST6GALNAC3"
+        },
+        {
+            "color": "#d1587c",
+            "name": "PDLIM1"
+        },
+        {
+            "color": "#2626f0",
+            "name": "RARB"
+        },
+        {
+            "color": "#9e633a",
+            "name": "NR4A3"
+        },
+        {
+            "color": "#93e517",
+            "name": "IL3RA"
+        },
+        {
+            "color": "#c3311f",
+            "name": "KCND2"
+        },
+        {
+            "color": "#3882d0",
+            "name": "CALCA"
+        },
+        {
+            "color": "#e4bf40",
+            "name": "IMMP2L"
+        },
+        {
+            "color": "#6f36a8",
+            "name": "CSGALNACT1"
+        },
+        {
+            "color": "#81b7c3",
+            "name": "TUBB2A"
+        },
+        {
+            "color": "#c358cf",
+            "name": "CPEB4"
+        },
+        {
+            "color": "#40ad54",
+            "name": "PDCD1"
+        },
+        {
+            "color": "#d1587c",
+            "name": "FMN1"
+        },
+        {
+            "color": "#2626f0",
+            "name": "FOXK2"
+        },
+        {
+            "color": "#9e633a",
+            "name": "PPP2R2C"
+        },
+        {
+            "color": "#93e517",
+            "name": "RORA"
+        },
+        {
+            "color": "#c3311f",
+            "name": "ZBTB16"
+        },
+        {
+            "color": "#3882d0",
+            "name": "ARHGAP10"
+        },
+        {
+            "color": "#e4bf40",
+            "name": "FNDC3B"
+        },
+        {
+            "color": "#6f36a8",
+            "name": "SKAP1"
+        },
+        {
+            "color": "#81b7c3",
+            "name": "HIF1A"
+        },
+        {
+            "color": "#c358cf",
+            "name": "SLC23A2"
+        },
+        {
+            "color": "#40ad54",
+            "name": "CDH5"
+        },
+        {
+            "color": "#d1587c",
+            "name": "PLSCR1"
+        },
+        {
+            "color": "#2626f0",
+            "name": "RTN1"
+        },
+        {
+            "color": "#9e633a",
+            "name": "AUTS2"
+        },
+        {
+            "color": "#93e517",
+            "name": "VCAN"
+        },
+        {
+            "color": "#c3311f",
+            "name": "APOD"
+        },
+        {
+            "color": "#3882d0",
+            "name": "CXCL12"
+        },
+        {
+            "color": "#e4bf40",
+            "name": "MBNL2"
+        },
+        {
+            "color": "#6f36a8",
+            "name": "SMC4"
+        },
+        {
+            "color": "#81b7c3",
+            "name": "PTPRC"
+        },
+        {
+            "color": "#c358cf",
+            "name": "ACLY"
+        },
+        {
+            "color": "#40ad54",
+            "name": "CD8A"
+        },
+        {
+            "color": "#d1587c",
+            "name": "CD74"
+        },
+        {
+            "color": "#2626f0",
+            "name": "FOSB"
+        },
+        {
+            "color": "#9e633a",
+            "name": "PKIB"
+        },
+        {
+            "color": "#93e517",
+            "name": "MAP7"
+        },
+        {
+            "color": "#c3311f",
+            "name": "KIF16B"
+        },
+        {
+            "color": "#3882d0",
+            "name": "RORC"
+        },
+        {
+            "color": "#e4bf40",
+            "name": "NRG1"
+        },
+        {
+            "color": "#6f36a8",
+            "name": "CACNA2D1"
+        },
+        {
+            "color": "#81b7c3",
+            "name": "SPOCK3"
+        },
+        {
+            "color": "#c358cf",
+            "name": "ZBTB20"
+        },
+        {
+            "color": "#40ad54",
+            "name": "NCR1"
+        },
+        {
+            "color": "#d1587c",
+            "name": "CREB5"
+        },
+        {
+            "color": "#2626f0",
+            "name": "PAX5"
+        },
+        {
+            "color": "#9e633a",
+            "name": "SYN3"
+        },
+        {
+            "color": "#93e517",
+            "name": "KCNIP4"
+        },
+        {
+            "color": "#c3311f",
+            "name": "MAP3K5"
+        },
+        {
+            "color": "#3882d0",
+            "name": "PDE3A"
+        },
+        {
+            "color": "#e4bf40",
+            "name": "GULP1"
+        },
+        {
+            "color": "#6f36a8",
+            "name": "LDLRAD4"
+        },
+        {
+            "color": "#81b7c3",
+            "name": "NTRK2"
+        },
+        {
+            "color": "#c358cf",
+            "name": "HLA-DRB1"
+        },
+        {
+            "color": "#40ad54",
+            "name": "ETS2"
+        },
+        {
+            "color": "#d1587c",
+            "name": "MPEG1"
+        },
+        {
+            "color": "#2626f0",
+            "name": "KRT19"
+        },
+        {
+            "color": "#9e633a",
+            "name": "CSF3R"
+        },
+        {
+            "color": "#93e517",
+            "name": "RGS7"
+        },
+        {
+            "color": "#c3311f",
+            "name": "SLC35F3"
+        },
+        {
+            "color": "#3882d0",
+            "name": "PACRG"
+        },
+        {
+            "color": "#e4bf40",
+            "name": "PRKN"
+        },
+        {
+            "color": "#6f36a8",
+            "name": "BRINP3"
+        },
+        {
+            "color": "#81b7c3",
+            "name": "PTGS2"
+        },
+        {
+            "color": "#c358cf",
+            "name": "SOAT1"
+        },
+        {
+            "color": "#40ad54",
+            "name": "RCSD1"
+        },
+        {
+            "color": "#d1587c",
+            "name": "CD244"
+        },
+        {
+            "color": "#2626f0",
+            "name": "NTRK1"
+        },
+        {
+            "color": "#9e633a",
+            "name": "NES"
+        },
+        {
+            "color": "#93e517",
+            "name": "LMNA"
+        },
+        {
+            "color": "#c3311f",
+            "name": "IL6R"
+        },
+        {
+            "color": "#3882d0",
+            "name": "MKI67"
+        },
+        {
+            "color": "#e4bf40",
+            "name": "SLC16A10"
+        },
+        {
+            "color": "#6f36a8",
+            "name": "GRIK2"
+        },
+        {
+            "color": "#81b7c3",
+            "name": "CD2"
+        },
+        {
+            "color": "#c358cf",
+            "name": "L1CAM"
+        },
+        {
+            "color": "#40ad54",
+            "name": "OLFM3"
+        },
+        {
+            "color": "#d1587c",
+            "name": "DPYD"
+        },
+        {
+            "color": "#2626f0",
+            "name": "KCNQ5"
+        },
+        {
+            "color": "#9e633a",
+            "name": "ARHGAP36"
+        },
+        {
+            "color": "#93e517",
+            "name": "PDE4B"
+        },
+        {
+            "color": "#c3311f",
+            "name": "TENM1"
+        },
+        {
+            "color": "#3882d0",
+            "name": "ELAVL4"
+        },
+        {
+            "color": "#e4bf40",
+            "name": "AGBL4"
+        },
+        {
+            "color": "#6f36a8",
+            "name": "CD40"
+        },
+        {
+            "color": "#81b7c3",
+            "name": "STMN1"
+        },
+        {
+            "color": "#c358cf",
+            "name": "PALM2AKAP2"
+        },
+        {
+            "color": "#40ad54",
+            "name": "C1QC"
+        },
+        {
+            "color": "#d1587c",
+            "name": "HLA-DRB5"
+        },
+        {
+            "color": "#2626f0",
+            "name": "COL15A1"
+        },
+        {
+            "color": "#9e633a",
+            "name": "FAM155A"
+        },
+        {
+            "color": "#93e517",
+            "name": "FGF14"
+        },
+        {
+            "color": "#c3311f",
+            "name": "FOXP3"
+        },
+        {
+            "color": "#3882d0",
+            "name": "HLA-C"
+        },
+        {
+            "color": "#e4bf40",
+            "name": "PCCA"
+        },
+        {
+            "color": "#6f36a8",
+            "name": "HLA-A"
+        },
+        {
+            "color": "#81b7c3",
+            "name": "GPC6"
+        },
+        {
+            "color": "#c358cf",
+            "name": "PLXDC2"
+        },
+        {
+            "color": "#40ad54",
+            "name": "CACNB2"
+        },
+        {
+            "color": "#d1587c",
+            "name": "TBC1D4"
+        },
+        {
+            "color": "#2626f0",
+            "name": "PCDH9"
+        },
+        {
+            "color": "#9e633a",
+            "name": "PCDH17"
+        },
+        {
+            "color": "#93e517",
+            "name": "EXT1"
+        },
+        {
+            "color": "#c3311f",
+            "name": "DMD"
+        },
+        {
+            "color": "#3882d0",
+            "name": "CHGB"
+        },
+        {
+            "color": "#e4bf40",
+            "name": "SAT1"
+        },
+        {
+            "color": "#6f36a8",
+            "name": "GATA3"
+        },
+        {
+            "color": "#81b7c3",
+            "name": "BABAM2"
+        },
+        {
+            "color": "#c358cf",
+            "name": "IL2RA"
+        },
+        {
+            "color": "#40ad54",
+            "name": "LINGO2"
+        },
+        {
+            "color": "#d1587c",
+            "name": "BNC2"
+        },
+        {
+            "color": "#2626f0",
+            "name": "SLC39A14"
+        },
+        {
+            "color": "#9e633a",
+            "name": "CD274"
+        },
+        {
+            "color": "#93e517",
+            "name": "RBM47"
+        },
+        {
+            "color": "#c3311f",
+            "name": "MSR1"
+        },
+        {
+            "color": "#3882d0",
+            "name": "ALK"
+        },
+        {
+            "color": "#e4bf40",
+            "name": "PTPRN2"
+        },
+        {
+            "color": "#6f36a8",
+            "name": "IGHG1"
+        },
+        {
+            "color": "#81b7c3",
+            "name": "CD8B"
+        },
+        {
+            "color": "#c358cf",
+            "name": "SNRPN"
+        },
+        {
+            "color": "#40ad54",
+            "name": "NLRP3"
+        },
+        {
+            "color": "#d1587c",
+            "name": "CD247"
+        },
+        {
+            "color": "#2626f0",
+            "name": "B3GAT1"
+        },
+        {
+            "color": "#9e633a",
+            "name": "LONRF2"
+        },
+        {
+            "color": "#93e517",
+            "name": "TPPP3"
+        },
+        {
+            "color": "#c3311f",
+            "name": "PPP2R2B"
+        },
+        {
+            "color": "#3882d0",
+            "name": "SPP1"
+        },
+        {
+            "color": "#e4bf40",
+            "name": "HLA-DRA"
+        },
+        {
+            "color": "#6f36a8",
+            "name": "SOX5"
+        },
+        {
+            "color": "#81b7c3",
+            "name": "NFATC2"
+        },
+        {
+            "color": "#c358cf",
+            "name": "ERC1"
+        },
+        {
+            "color": "#40ad54",
+            "name": "MEIS2"
+        },
+        {
+            "color": "#d1587c",
+            "name": "ZFHX3"
+        },
+        {
+            "color": "#2626f0",
+            "name": "FRMD4B"
+        },
+        {
+            "color": "#9e633a",
+            "name": "DIAPH3"
+        },
+        {
+            "color": "#93e517",
+            "name": "DSCAM"
+        },
+        {
+            "color": "#c3311f",
+            "name": "CCR2"
+        },
+        {
+            "color": "#3882d0",
+            "name": "CD14"
+        },
+        {
+            "color": "#e4bf40",
+            "name": "AKAP12"
+        },
+        {
+            "color": "#6f36a8",
+            "name": "PVR"
+        },
+        {
+            "color": "#81b7c3",
+            "name": "NFIA"
+        },
+        {
+            "color": "#c358cf",
+            "name": "CALN1"
+        },
+        {
+            "color": "#40ad54",
+            "name": "SLC8A1"
+        },
+        {
+            "color": "#d1587c",
+            "name": "PRR16"
+        },
+        {
+            "color": "#2626f0",
+            "name": "ZFPM2"
+        },
+        {
+            "color": "#9e633a",
+            "name": "MYT1L"
+        },
+        {
+            "color": "#93e517",
+            "name": "LRRTM4"
+        },
+        {
+            "color": "#c3311f",
+            "name": "AFF3"
+        },
+        {
+            "color": "#3882d0",
+            "name": "HLA-B"
+        },
+        {
+            "color": "#e4bf40",
+            "name": "PRKCA"
+        },
+        {
+            "color": "#6f36a8",
+            "name": "INPP5D"
+        },
+        {
+            "color": "#81b7c3",
+            "name": "LAMA2"
+        },
+        {
+            "color": "#c358cf",
+            "name": "DOCK4"
+        },
+        {
+            "color": "#40ad54",
+            "name": "TOP2A"
+        },
+        {
+            "color": "#d1587c",
+            "name": "SEMA3E"
+        },
+        {
+            "color": "#2626f0",
+            "name": "AGAP1"
+        },
+        {
+            "color": "#9e633a",
+            "name": "BANK1"
+        },
+        {
+            "color": "#93e517",
+            "name": "COBL"
+        },
+        {
+            "color": "#c3311f",
+            "name": "ERN1"
+        },
+        {
+            "color": "#3882d0",
+            "name": "ABTB2"
+        },
+        {
+            "color": "#e4bf40",
+            "name": "FCGR3A"
+        },
+        {
+            "color": "#6f36a8",
+            "name": "GNA13"
+        },
+        {
+            "color": "#81b7c3",
+            "name": "BMPR1B"
+        },
+        {
+            "color": "#c358cf",
+            "name": "GRM8"
+        },
+        {
+            "color": "#40ad54",
+            "name": "CHRM2"
+        },
+        {
+            "color": "#d1587c",
+            "name": "CD36"
+        },
+        {
+            "color": "#2626f0",
+            "name": "SORBS2"
+        },
+        {
+            "color": "#9e633a",
+            "name": "ZNF331"
+        },
+        {
+            "color": "#93e517",
+            "name": "SHANK2"
+        },
+        {
+            "color": "#c3311f",
+            "name": "PDE10A"
+        },
+        {
+            "color": "#3882d0",
+            "name": "PAPSS2"
+        },
+        {
+            "color": "#e4bf40",
+            "name": "FN1"
+        },
+        {
+            "color": "#6f36a8",
+            "name": "NLGN1"
+        },
+        {
+            "color": "#81b7c3",
+            "name": "CLSTN2"
+        },
+        {
+            "color": "#c358cf",
+            "name": "ATP1B3"
+        },
+        {
+            "color": "#40ad54",
+            "name": "AOPEP"
+        },
+        {
+            "color": "#d1587c",
+            "name": "CNTNAP2"
+        },
+        {
+            "color": "#2626f0",
+            "name": "CD96"
+        },
+        {
+            "color": "#9e633a",
+            "name": "WWTR1"
+        },
+        {
+            "color": "#93e517",
+            "name": "PARD3"
+        },
+        {
+            "color": "#c3311f",
+            "name": "PRUNE2"
+        },
+        {
+            "color": "#3882d0",
+            "name": "CENPF"
+        },
+        {
+            "color": "#e4bf40",
+            "name": "CACNA2D3"
+        },
+        {
+            "color": "#6f36a8",
+            "name": "GPHN"
+        },
+        {
+            "color": "#81b7c3",
+            "name": "ADAMTS9"
+        },
+        {
+            "color": "#c358cf",
+            "name": "KCNMA1"
+        },
+        {
+            "color": "#40ad54",
+            "name": "IQCJ-SCHIP1"
+        },
+        {
+            "color": "#d1587c",
+            "name": "KLHL29"
+        },
+        {
+            "color": "#2626f0",
+            "name": "SIK3"
+        },
+        {
+            "color": "#9e633a",
+            "name": "FHIT"
+        },
+        {
+            "color": "#93e517",
+            "name": "FNDC3A"
+        },
+        {
+            "color": "#c3311f",
+            "name": "FCRL1"
+        },
+        {
+            "color": "#3882d0",
+            "name": "CREG2"
+        },
+        {
+            "color": "#e4bf40",
+            "name": "NCR3"
+        },
+        {
+            "color": "#6f36a8",
+            "name": "CTNNA2"
+        },
+        {
+            "color": "#81b7c3",
+            "name": "ABCC2"
+        },
+        {
+            "color": "#c358cf",
+            "name": "KLF6"
+        },
+        {
+            "color": "#40ad54",
+            "name": "SV2C"
+        },
+        {
+            "color": "#d1587c",
+            "name": "ADGRL3"
+        },
+        {
+            "color": "#2626f0",
+            "name": "PROM1"
+        },
+        {
+            "color": "#9e633a",
+            "name": "ACSL1"
+        },
+        {
+            "color": "#93e517",
+            "name": "EYS"
+        },
+        {
+            "color": "#c3311f",
+            "name": "LEF1"
+        },
+        {
+            "color": "#3882d0",
+            "name": "PAM"
+        },
+        {
+            "color": "#e4bf40",
+            "name": "MARCHF11"
+        },
+        {
+            "color": "#6f36a8",
+            "name": "KCTD16"
+        },
+        {
+            "color": "#81b7c3",
+            "name": "CCSER1"
+        },
+        {
+            "color": "#c358cf",
+            "name": "MAML3"
+        },
+        {
+            "color": "#40ad54",
+            "name": "LRBA"
+        },
+        {
+            "color": "#d1587c",
+            "name": "ALB"
+        },
+        {
+            "color": "#2626f0",
+            "name": "PCDH7"
+        },
+        {
+            "color": "#9e633a",
+            "name": "ARHGEF28"
+        },
+        {
+            "color": "#93e517",
+            "name": "RALYL"
+        },
+        {
+            "color": "#c3311f",
+            "name": "TENM2"
+        },
+        {
+            "color": "#3882d0",
+            "name": "PIK3R1"
+        },
+        {
+            "color": "#e4bf40",
+            "name": "KCNB2"
+        },
+        {
+            "color": "#6f36a8",
+            "name": "DOCK2"
+        },
+        {
+            "color": "#81b7c3",
+            "name": "SQLE"
+        },
+        {
+            "color": "#c358cf",
+            "name": "CD3E"
+        },
+        {
+            "color": "#40ad54",
+            "name": "CTBP2"
+        },
+        {
+            "color": "#d1587c",
+            "name": "MS4A1"
+        },
+        {
+            "color": "#2626f0",
+            "name": "PICALM"
+        },
+        {
+            "color": "#9e633a",
+            "name": "CD3G"
+        },
+        {
+            "color": "#93e517",
+            "name": "GRAMD1B"
+        },
+        {
+            "color": "#c3311f",
+            "name": "THEMIS"
+        },
+        {
+            "color": "#3882d0",
+            "name": "CLEC4C"
+        },
+        {
+            "color": "#e4bf40",
+            "name": "CD163"
+        },
+        {
+            "color": "#6f36a8",
+            "name": "RTN3"
+        },
+        {
+            "color": "#81b7c3",
+            "name": "BACH2"
+        },
+        {
+            "color": "#c358cf",
+            "name": "RIPOR2"
+        },
+        {
+            "color": "#40ad54",
+            "name": "ITGAM"
+        },
+        {
+            "color": "#d1587c",
+            "name": "NRG3"
+        },
+        {
+            "color": "#2626f0",
+            "name": "ROR1"
+        },
+        {
+            "color": "#9e633a",
+            "name": "POTEM"
+        },
+        {
+            "color": "#93e517",
+            "name": "KIF21A"
+        },
+        {
+            "color": "#c3311f",
+            "name": "CNTN1"
+        },
+        {
+            "color": "#3882d0",
+            "name": "B4GALNT1"
+        },
+        {
+            "color": "#e4bf40",
+            "name": "SIPA1L1"
+        },
+        {
+            "color": "#6f36a8",
+            "name": "SYNE2"
+        },
+        {
+            "color": "#81b7c3",
+            "name": "PDE8A"
+        },
+        {
+            "color": "#c358cf",
+            "name": "AKAP13"
+        },
+        {
+            "color": "#40ad54",
+            "name": "LINGO1"
+        },
+        {
+            "color": "#d1587c",
+            "name": "PECAM1"
+        },
+        {
+            "color": "#2626f0",
+            "name": "TMEM178B"
+        },
+        {
+            "color": "#9e633a",
+            "name": "SNX29"
+        },
+        {
+            "color": "#93e517",
+            "name": "MRC1"
+        },
+        {
+            "color": "#c3311f",
+            "name": "RBFOX1"
+        },
+        {
+            "color": "#3882d0",
+            "name": "RAB31"
+        },
+        {
+            "color": "#e4bf40",
+            "name": "ADCYAP1"
+        },
+        {
+            "color": "#6f36a8",
+            "name": "PTPRM"
+        },
+        {
+            "color": "#81b7c3",
+            "name": "MYOM1"
+        },
+        {
+            "color": "#c358cf",
+            "name": "CD68"
+        },
+        {
+            "color": "#40ad54",
+            "name": "CDH8"
+        },
+        {
+            "color": "#d1587c",
+            "name": "H3-3B"
+        },
+        {
+            "color": "#2626f0",
+            "name": "C3"
+        },
+        {
+            "color": "#9e633a",
+            "name": "CD33"
+        },
+        {
+            "color": "#93e517",
+            "name": "NXPH1"
+        },
+        {
+            "color": "#c3311f",
+            "name": "CD24"
+        },
+        {
+            "color": "#3882d0",
+            "name": "RYR2"
+        },
+        {
+            "color": "#e4bf40",
+            "name": "UNC5C"
+        },
+        {
+            "color": "#6f36a8",
+            "name": "NEFL"
+        },
+        {
+            "color": "#81b7c3",
+            "name": "LRMDA"
+        },
+        {
+            "color": "#c358cf",
+            "name": "CD83"
+        },
+        {
+            "color": "#40ad54",
+            "name": "TTC28"
+        },
+        {
+            "color": "#d1587c",
+            "name": "RHOH"
+        },
+        {
+            "color": "#2626f0",
+            "name": "CDH4"
+        },
+        {
+            "color": "#9e633a",
+            "name": "PTGES2"
+        },
+        {
+            "color": "#93e517",
+            "name": "PCSK6"
+        },
+        {
+            "color": "#c3311f",
+            "name": "SYN2"
+        },
+        {
+            "color": "#3882d0",
+            "name": "LUZP2"
+        },
+        {
+            "color": "#e4bf40",
+            "name": "COL19A1"
+        },
+        {
+            "color": "#6f36a8",
+            "name": "KCNQ3"
+        },
+        {
+            "color": "#81b7c3",
+            "name": "EBF1"
+        },
+        {
+            "color": "#c358cf",
+            "name": "ISG15"
+        },
+        {
+            "color": "#40ad54",
+            "name": "RACK1"
+        },
+        {
+            "color": "#d1587c",
+            "name": "TSHZ2"
+        },
+        {
+            "color": "#2626f0",
+            "name": "FAP"
+        },
+        {
+            "color": "#9e633a",
+            "name": "MAGI2"
+        },
+        {
+            "color": "#93e517",
+            "name": "DCX"
+        },
+        {
+            "color": "#c3311f",
+            "name": "NRXN1"
+        },
+        {
+            "color": "#3882d0",
+            "name": "MYCN"
+        },
+        {
+            "color": "#e4bf40",
+            "name": "Blank-1"
+        },
+        {
+            "color": "#6f36a8",
+            "name": "Blank-2"
+        },
+        {
+            "color": "#81b7c3",
+            "name": "Blank-3"
+        },
+        {
+            "color": "#c358cf",
+            "name": "Blank-4"
+        },
+        {
+            "color": "#40ad54",
+            "name": "Blank-5"
+        },
+        {
+            "color": "#d1587c",
+            "name": "Blank-6"
+        },
+        {
+            "color": "#2626f0",
+            "name": "Blank-7"
+        },
+        {
+            "color": "#9e633a",
+            "name": "Blank-8"
+        },
+        {
+            "color": "#93e517",
+            "name": "Blank-9"
+        },
+        {
+            "color": "#c3311f",
+            "name": "Blank-10"
+        },
+        {
+            "color": "#3882d0",
+            "name": "Blank-11"
+        },
+        {
+            "color": "#e4bf40",
+            "name": "Blank-12"
+        },
+        {
+            "color": "#6f36a8",
+            "name": "Blank-13"
+        },
+        {
+            "color": "#81b7c3",
+            "name": "Blank-14"
+        },
+        {
+            "color": "#c358cf",
+            "name": "Blank-15"
+        },
+        {
+            "color": "#40ad54",
+            "name": "Blank-16"
+        },
+        {
+            "color": "#d1587c",
+            "name": "Blank-17"
+        },
+        {
+            "color": "#2626f0",
+            "name": "Blank-18"
+        },
+        {
+            "color": "#9e633a",
+            "name": "Blank-19"
+        },
+        {
+            "color": "#93e517",
+            "name": "Blank-20"
+        },
+        {
+            "color": "#c3311f",
+            "name": "Blank-21"
+        },
+        {
+            "color": "#3882d0",
+            "name": "Blank-22"
+        },
+        {
+            "color": "#e4bf40",
+            "name": "Blank-23"
+        },
+        {
+            "color": "#6f36a8",
+            "name": "Blank-24"
+        },
+        {
+            "color": "#81b7c3",
+            "name": "Blank-25"
+        },
+        {
+            "color": "#c358cf",
+            "name": "Blank-26"
+        },
+        {
+            "color": "#40ad54",
+            "name": "Blank-27"
+        },
+        {
+            "color": "#d1587c",
+            "name": "Blank-28"
+        },
+        {
+            "color": "#2626f0",
+            "name": "Blank-29"
+        },
+        {
+            "color": "#9e633a",
+            "name": "Blank-30"
+        },
+        {
+            "color": "#93e517",
+            "name": "Blank-31"
+        },
+        {
+            "color": "#c3311f",
+            "name": "Blank-32"
+        },
+        {
+            "color": "#3882d0",
+            "name": "Blank-33"
+        },
+        {
+            "color": "#e4bf40",
+            "name": "Blank-34"
+        },
+        {
+            "color": "#6f36a8",
+            "name": "Blank-35"
+        },
+        {
+            "color": "#81b7c3",
+            "name": "Blank-36"
+        },
+        {
+            "color": "#c358cf",
+            "name": "Blank-37"
+        },
+        {
+            "color": "#40ad54",
+            "name": "Blank-38"
+        },
+        {
+            "color": "#d1587c",
+            "name": "Blank-39"
+        },
+        {
+            "color": "#2626f0",
+            "name": "Blank-40"
+        },
+        {
+            "color": "#9e633a",
+            "name": "Blank-41"
+        },
+        {
+            "color": "#93e517",
+            "name": "Blank-42"
+        },
+        {
+            "color": "#c3311f",
+            "name": "Blank-43"
+        },
+        {
+            "color": "#3882d0",
+            "name": "Blank-44"
+        },
+        {
+            "color": "#e4bf40",
+            "name": "Blank-45"
+        },
+        {
+            "color": "#6f36a8",
+            "name": "Blank-46"
+        },
+        {
+            "color": "#81b7c3",
+            "name": "Blank-47"
+        },
+        {
+            "color": "#c358cf",
+            "name": "Blank-48"
+        },
+        {
+            "color": "#40ad54",
+            "name": "Blank-49"
+        },
+        {
+            "color": "#d1587c",
+            "name": "Blank-50"
+        },
+        {
+            "color": "#2626f0",
+            "name": "Blank-51"
+        },
+        {
+            "color": "#9e633a",
+            "name": "Blank-52"
+        },
+        {
+            "color": "#93e517",
+            "name": "Blank-53"
+        },
+        {
+            "color": "#c3311f",
+            "name": "Blank-54"
+        },
+        {
+            "color": "#3882d0",
+            "name": "Blank-55"
+        },
+        {
+            "color": "#e4bf40",
+            "name": "Blank-56"
+        },
+        {
+            "color": "#6f36a8",
+            "name": "Blank-57"
+        },
+        {
+            "color": "#81b7c3",
+            "name": "Blank-58"
+        },
+        {
+            "color": "#c358cf",
+            "name": "Blank-59"
+        },
+        {
+            "color": "#40ad54",
+            "name": "Blank-60"
+        },
+        {
+            "color": "#d1587c",
+            "name": "Blank-61"
+        },
+        {
+            "color": "#2626f0",
+            "name": "Blank-62"
+        },
+        {
+            "color": "#9e633a",
+            "name": "Blank-63"
+        },
+        {
+            "color": "#93e517",
+            "name": "Blank-64"
+        }
+    ],
+    "Size": "462 genes * 412439 cells",
+    "Software Version": "MERSCOPE Vizualizer 2.1.2595.1",
+    "Window center": "8,370.8 x 2,959.5",
+    "Window size": "218.7 x 122.7",
+    "Z-planes": [
+        "3",
+        "3"
+    ]
+}
